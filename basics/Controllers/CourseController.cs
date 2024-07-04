@@ -20,10 +20,9 @@ class CourseController : Controller {
     {
         var kurslar = new List<Course>()
         {
-            new Course() {Id = 1, Title = "aspnet kursu", Description = "güzel bir kurs"},
-            new Course() {Id = 2, Title = "php kursu", Description = "güzel bir kurs"},
-            new Course() {Id = 3, Title = "djungo kursu", Description = "güzel bir kurs"}
-
+            new Course() {Id = 1, Title = "aspnet kursu", Description = "güzel bir kurs", Image="1.jpg"},
+            new Course() {Id = 2, Title = "php kursu", Description = "güzel bir kurs", Image="2.jpg"},
+            new Course() {Id = 3, Title = "djungo kursu", Description = "güzel bir kurs", Image="3.jpg"}
         };
         return View("CourseList, kurslar");
     }
