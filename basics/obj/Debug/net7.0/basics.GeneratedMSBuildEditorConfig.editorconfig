@@ -16,12 +16,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/pc/Desktop/aspnetcore-dersleri/basics
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/pc/Desktop/aspnetcore-dersleri/basics/Views/Course/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0luZGV4LmNzaHRtbA==
+[/Users/pc/Desktop/aspnetcore-dersleri/basics/Views/Course/CourseList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0NvdXJzZUxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/pc/Desktop/aspnetcore-dersleri/basics/Views/Course/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0xpc3QuY3NodG1s
+[/Users/pc/Desktop/aspnetcore-dersleri/basics/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/pc/Desktop/aspnetcore-dersleri/basics/Views/Home/Contact.cshtml]
