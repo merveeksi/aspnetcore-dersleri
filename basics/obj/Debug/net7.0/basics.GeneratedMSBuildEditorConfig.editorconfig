@@ -10,8 +10,6 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = basics
 build_property.RootNamespace = basics
 build_property.ProjectDir = /Users/pc/Desktop/aspnetcore-dersleri/basics/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
@@ -20,6 +18,10 @@ build_property._RazorSourceGeneratorDebug =
 
 [/Users/pc/Desktop/aspnetcore-dersleri/basics/Views/Course/CourseList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0NvdXJzZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/pc/Desktop/aspnetcore-dersleri/basics/Views/Course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291cnNlL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/pc/Desktop/aspnetcore-dersleri/basics/Views/Course/Index.cshtml]
