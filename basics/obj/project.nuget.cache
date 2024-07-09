@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "dmYfY2BhIz0KEtfy9frO38oNINgA5QjDsDjV9+t/0siKUZJ6lcQIBE+1Uc6X6+oWb9c2tUq8lFPJ8+/QVVsIqg==",
+  "dgSpecHash": "Hh0IZMiLG1Y=",
   "success": true,
   "projectFilePath": "/Users/pc/Desktop/aspnetcore-dersleri/basics/basics.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/pc/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/pc/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/pc/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.20/microsoft.netcore.app.host.osx-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
