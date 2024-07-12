@@ -28,4 +28,4 @@
 /Users/pc/Desktop/aspnetcore-dersleri/basics/obj/Debug/net7.0/basics.pdb
 /Users/pc/Desktop/aspnetcore-dersleri/basics/obj/Debug/net7.0/basics.genruntimeconfig.cache
 /Users/pc/Desktop/aspnetcore-dersleri/basics/obj/Debug/net7.0/ref/basics.dll
-/Users/pc/Desktop/aspnetcore-dersleri/basics/obj/Debug/net7.0/basics.csproj.AssemblyReference.cache
+/Users/pc/Desktop/aspnetcore-dersleri/basics/obj/Debug/net7.0/basics.sourcelink.json

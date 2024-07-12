@@ -2,5 +2,9 @@
 
 @foreach(var kurs in Model)
 {
-    @await Html.PartialAsync("_Course", kurs)
+    @if (kurs.İsActive)
+    {
+        @await Html.PartialAsync("_Course", kurs)
+    }
+   
 }
